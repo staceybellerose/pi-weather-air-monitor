@@ -1,0 +1,14 @@
+[openweatherapi]
+token = 1234567890abcdef1234567890abcdef
+[positionstack]
+token = 1234567890abcdef1234567890abcdef
+query = 90210
+country = US
+[adafruit]
+key = 1234567890abcdef1234567890abcdef
+username = lady_ada
+[display]
+am_pm = true
+celsius = false
+# starting_screen can be one of the following: weather iaq forecast
+starting_screen = weather

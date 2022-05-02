@@ -1,0 +1,16 @@
+# executable file
+reader
+
+# dat files
+*.dat
+
+# object files
+*.o
+
+# library files
+*.a
+
+# proprietary BSEC files
+
+bme680*
+bsec*
